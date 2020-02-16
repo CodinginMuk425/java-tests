@@ -1,0 +1,29 @@
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}
+
+#click1 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+#click1:hover {
+  text-decoration: underline;
+}
+
+#click2 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+#click2:hover {
+  text-decoration: underline;
+}
